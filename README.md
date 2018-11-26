@@ -1,2 +1,2 @@
-# Webseite
-Meine Webseite, auf der man ein paar Projekte von mir sieht.
+# Website
+ My website, where you can see a few projects of mine.
